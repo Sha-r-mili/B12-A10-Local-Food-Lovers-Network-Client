@@ -1,3 +1,6 @@
+//Home Page Component
+// Features hero slider, featured reviews, and info sections
+
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import ReviewCard from '../components/ReviewCard';
