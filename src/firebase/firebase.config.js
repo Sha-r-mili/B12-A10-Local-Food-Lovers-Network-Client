@@ -1,3 +1,6 @@
+//Firebase Authentication Configuration
+// Initialized for Local Food Lovers Network
+
 import { initializeApp } from 'firebase/app';
 import { getAuth } from 'firebase/auth';
 
