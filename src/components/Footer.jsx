@@ -1,3 +1,6 @@
+//Footer Component
+// Displays site links and social media icons
+
 import { Link } from 'react-router-dom';
 import { FaFacebook, FaInstagram, FaLinkedin } from 'react-icons/fa';
 import { FaXTwitter } from 'react-icons/fa6';
