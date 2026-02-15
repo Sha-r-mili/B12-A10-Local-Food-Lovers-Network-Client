@@ -1,3 +1,6 @@
+//Private Route Component
+// Protects routes that require authentication
+
 import { Navigate, useLocation } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 import LoadingSpinner from './LoadingSpinner';

@@ -1,3 +1,6 @@
+//Loading Spinner Component
+// Displays during data fetching operations
+
 const LoadingSpinner = () => {
   return (
     <div className="flex justify-center items-center min-h-[200px]">
