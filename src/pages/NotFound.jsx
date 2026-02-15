@@ -1,3 +1,6 @@
+//404 Not Found Page Component
+// Displays when user navigates to invalid route
+
 import { Link } from 'react-router-dom';
 
 const NotFound = () => {
