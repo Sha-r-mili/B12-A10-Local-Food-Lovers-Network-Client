@@ -1,3 +1,6 @@
+//My Favorites Page Component
+// Displays user's favorite reviews (Challenge requirement)
+
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
