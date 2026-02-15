@@ -1,3 +1,6 @@
+//All Reviews Page Component
+// Displays all reviews with MongoDB search functionality
+
 import { useEffect, useState } from 'react';
 import ReviewCard from '../components/ReviewCard';
 import LoadingSpinner from '../components/LoadingSpinner';
