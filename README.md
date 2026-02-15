@@ -3,7 +3,10 @@
 A community-driven platform connecting food enthusiasts who love exploring local restaurants, street food, and home-cooked meals.
 
 ## Live Website
-🔗 [Add your Netlify URL here after deployment]
+🔗 [Add your Netlify URL after deployment]
+
+## Server Repository
+🔗 https://github.com/YOUR_USERNAME/B12-A10-Local-Food-Lovers-Network-Server
 
 ## Features
 
@@ -20,37 +23,9 @@ A community-driven platform connecting food enthusiasts who love exploring local
 ## Technologies Used
 
 - **Frontend:** React, React Router, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Backend:** Node.js, Express.js, MongoDB
 - **Authentication:** Firebase
 - **Deployment:** Netlify (Client), Vercel (Server)
-
-## NPM Packages
-
-- react-router-dom
-- firebase
-- react-hot-toast
-- react-icons
-- swiper
-
-## Getting Started
-
-1. Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/B12-A10-Local-Food-Lovers-Network-Client.git
-```
-
-2. Install dependencies
-```bash
-npm install
-```
-
-3. Create `.env.local` file with your Firebase credentials
-
-4. Run development server
-```bash
-npm run dev
-```
 
 ## Assignment Category
 B12-A10_category-0007
