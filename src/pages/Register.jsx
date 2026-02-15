@@ -1,3 +1,6 @@
+//Registration Page Component
+// User registration with validation
+
 import { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';

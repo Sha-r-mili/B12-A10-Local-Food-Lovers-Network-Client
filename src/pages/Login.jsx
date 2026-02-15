@@ -1,3 +1,6 @@
+//Login Page Component
+// Handles email/password and Google authentication
+
 import { useState } from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
