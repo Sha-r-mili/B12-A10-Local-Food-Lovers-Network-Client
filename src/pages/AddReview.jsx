@@ -1,3 +1,6 @@
+//Add Review Page Component
+// Form for creating new food reviews
+
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
