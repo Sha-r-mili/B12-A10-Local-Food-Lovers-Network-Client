@@ -3,7 +3,7 @@
 A community-driven platform connecting food enthusiasts who love exploring local restaurants, street food, and home-cooked meals.
 
 ## Live Website
-🔗 [Add your Netlify URL after deployment]
+🔗 https://your-actual-site.netlify.app
 
 ## Server Repository
 🔗 https://github.com/YOUR_USERNAME/B12-A10-Local-Food-Lovers-Network-Server
