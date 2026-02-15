@@ -1,3 +1,6 @@
+//Review Card Component
+// Displays individual review with favorite functionality
+
 import { Link } from 'react-router-dom';
 import { FaStar, FaMapMarkerAlt, FaHeart, FaRegHeart } from 'react-icons/fa';
 import { useAuth } from '../context/AuthContext';
