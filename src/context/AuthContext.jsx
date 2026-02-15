@@ -1,3 +1,6 @@
+// Authentication Context Provider
+// Manages user authentication state and methods
+
 import { createContext, useContext, useEffect, useState } from 'react';
 import {
   createUserWithEmailAndPassword,
