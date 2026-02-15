@@ -1,3 +1,6 @@
+//Navigation Bar Component
+// Includes responsive menu, auth dropdown, and user profile
+
 import { Link, NavLink } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 import { FaSignOutAlt } from 'react-icons/fa';
