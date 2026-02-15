@@ -1,3 +1,6 @@
+//Review Details Page Component
+// Full review display with all information
+
 import { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import LoadingSpinner from '../components/LoadingSpinner';
